@@ -1,0 +1,1 @@
+C:/cygwin64/bin/gcc.exe -g  -Wl,--enable-auto-import CMakeFiles/newex2.dir/battleships_game.c.o CMakeFiles/newex2.dir/battleships.c.o  -o newex2.exe -Wl,--out-implib,libnewex2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

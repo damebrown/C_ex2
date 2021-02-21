@@ -1,0 +1,8 @@
+(-1) empty slot --> '_'
+0 - 5 lives ship --> '_'
+1 - 4 lives ship --> '_'
+2 - first 3 lives ship --> '_'
+3 - second 3 lives ship --> '_'
+4 - 2 lives ship --> '_'
+5 - hit spot --> 'x'
+6 - missed spot --> 'o'
